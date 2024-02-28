@@ -4,7 +4,7 @@
 
 ## Description
 
-This project utilizes the Bass diffusion model to predict the adoption of an innovation. The chosen innovation is the [Apple Watch Ultra 2](#) selected from Time magazine's list of the best 100 innovations of the year. The dataset used for analysis is sourced from Statista, covering Apple Watch sales worldwide from 2019 to 2022.
+This project utilizes the Bass diffusion model to predict the adoption of an innovation. The chosen innovation is the [Apple Watch Ultra 2](#) selected from Time magazine's list of the best 100 innovations of the year. The dataset used for analysis is sourced from Statista, covering Apple Watch sales worldwide from 2015 to 2022.
 
 ## Steps
 
@@ -17,7 +17,7 @@ This project utilizes the Bass diffusion model to predict the adoption of an inn
  
 
 3. **Data Sources:**
-   - Utilized Statista for Apple Watch sales data (2019-2022).
+   - Utilized Statista for Apple Watch sales data (2015-2022).
     
 
 4. **Estimate Bass Model Parameters:**
