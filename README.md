@@ -1,6 +1,6 @@
 # Marketing-Analytics 
 
-# Bass Model Project: Predicting Innovation Diffusion
+# Bass Model: Predicting Innovation Diffusion
 
 ## Description
 
